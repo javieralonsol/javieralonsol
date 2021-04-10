@@ -1,6 +1,6 @@
 👋 Hola!
 
-Me llamo Javier Alonsoy soy positivo, optimista y sociable, y tengo facilidad para el aprendizaje.
+Me llamo Javier Alonso y soy positivo, optimista y sociable, y tengo facilidad para el aprendizaje.
 
 De hecho, cuando era pequeño siempre me quedaba sin juguetes porque lo que me gustaba de verdad, más que jugar con ellos,
 era ver cómo estaban hechos y, claro, los destrozaba, pero esa misma inquietud es la que me llevó a descubrir HTMLS, CSS y,
@@ -11,6 +11,6 @@ también de forma autodidacta, y llegué a hacer aplicaciones ya algo avanzadas 
 los archivos access-log o un programa de gestión de clientes y pedidos para mi trabajo de agente comercial.
 
 Y a esos conocimientos por fin les pude poner bases y multiplicarlos al realizar el bootcamp de [Hack a Boss](https://hackaboss.com/) en el que, como proyecto final,
-realicé, junto a [Iren Medín](https://www.linkedin.com/in/irene-med%C3%ADn-blanco/), una plataforma de intercambio de ayuda entre usuarios: [Helpium: "Portal de necesidades digitales"](https://github.com/javieralonsol/HackABoss/tree/master/proyecto-portal-necesidades-digitales).
+realicé, junto a [Irene Medín](https://www.linkedin.com/in/irene-med%C3%ADn-blanco/), una plataforma de intercambio de ayuda entre usuarios: [Helpium: "Portal de necesidades digitales"](https://github.com/javieralonsol/HackABoss/tree/master/proyecto-portal-necesidades-digitales).
 
 No podría decir si me gusta más el Back o el Front porque me encanta todo, sobre todo cuando te pones a picar código y... ¡¡¡Funciona!!! 
