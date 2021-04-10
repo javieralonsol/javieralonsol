@@ -10,7 +10,7 @@ Cuando quise hacer cosas un poco más complejas de lo que permitía JavaScript a
 también de forma autodidacta, y llegué a hacer aplicaciones ya algo avanzadas como unas estadísticas web a partir exclusivamente de
 los archivos access-log o un programa de gestión de clientes y pedidos para mi trabajo de agente comercial.
 
-Y a esos conocimientos por fin les pude poner bases y multiplicarlos al realizar el bootcamp de (Hack a Boss)[https://hackaboss.com/] en el que, como proyecto final,
-realicé, junto a (Iren Medín)[https://www.linkedin.com/in/irene-med%C3%ADn-blanco/], una plataforma de intercambio de ayuda entre usuarios: (Helpium)[(https://github.com/javieralonsol/HackABoss/tree/master/proyecto-portal-necesidades-digitales].
+Y a esos conocimientos por fin les pude poner bases y multiplicarlos al realizar el bootcamp de [Hack a Boss](https://hackaboss.com/) en el que, como proyecto final,
+realicé, junto a [Iren Medín](https://www.linkedin.com/in/irene-med%C3%ADn-blanco/), una plataforma de intercambio de ayuda entre usuarios: [Helpium: "Portal de necesidades digitales"][https://github.com/javieralonsol/HackABoss/tree/master/proyecto-portal-necesidades-digitales].
 
 No podría decir si me gusta más el Back o el Front porque me encanta todo, sobre todo cuando te pones a picar código y... ¡¡¡Funciona!!! 
