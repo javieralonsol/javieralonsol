@@ -15,4 +15,4 @@ realicé, junto a [Irene Medín](https://www.linkedin.com/in/irene-med%C3%ADn-bl
 
 No podría decir si me gusta más el Back o el Front porque me encanta todo, sobre todo cuando te pones a picar código y... ¡¡¡Funciona!!! 
 
-<a href="https://www.linkedin.com/in/javieralonsol/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/javieralonsolopez/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
